@@ -34,3 +34,4 @@ Python (pandas, matplotlib), Google Colab
 - `marketing_campaigns_raw.csv`: raw data
 - `campaigns_clean.csv`: cleaned data
 - `channel_summary.csv`: results per channel
+- `budget_simulation.csv`
