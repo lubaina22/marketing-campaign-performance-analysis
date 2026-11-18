@@ -1,0 +1,15 @@
+column,description
+campaign_id,Unique campaign identifier
+campaign_name,Channel_Type_MonthYear label
+channel,Marketing channel (names intentionally inconsistent in raw file)
+campaign_type,Sub-type within channel
+start_date / end_date,Campaign run dates (some rows use DD/MM/YYYY)
+region,Target geography
+audience_segment,Targeted customer segment
+device,Primary device
+impressions,Times ad was shown / emails delivered
+clicks,Total clicks
+leads,"Clicks that became leads (sign-up, form fill)"
+conversions,Leads that became paying customers
+spend,Campaign cost in USD
+revenue,Revenue from conversions in USD
